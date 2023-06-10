@@ -10,7 +10,7 @@ Portifólio criado no curso de JavaScript e HTML: desenvolva um jogo e pratique 
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/abarbaragomes/meu-portifolio/assets/136185103/221dbef6-cb3a-44d2-a9ad-064ee61917e7#vitrinedev)
 
 ## Detalhes do projeto
 
