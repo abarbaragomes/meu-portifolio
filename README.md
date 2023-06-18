@@ -5,7 +5,7 @@ Portifólio criado no curso de JavaScript e HTML: desenvolva um jogo e pratique 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Meu Portifólio**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | javascript, html (tecnologias utilizadas)
 | :rocket: URL         | https://github.com/abarbaragomes/meu-portifolio
 | :fire: Desafio     | 
 
