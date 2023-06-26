@@ -31,6 +31,8 @@ Aqui detalharei tudo o que foi aprendido durante a formação!
 
 ## Javascript e HTML: desenvolva um jogo e pratique lógica de programação
 
+Os projetos desenvolvidos durante a realização deste curso estão *[neste](https://github.com/abarbaragomes/meu-portifolio/blob/main/Logica_de_Programacao.zip)* respositório.
+
 
 ## Git e GitHub: repositório, commit e versões
 
