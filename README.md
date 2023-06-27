@@ -28,6 +28,14 @@ Aqui detalharei tudo o que foi aprendido durante a formação!
 
 ## Quality Assurance: plano de testes e gestão de bugs
 
+Este curso foi dividido em seis aulas que abordaram os seguintes temas:
+1. Plano de teste; Criação do Fluxo de Teste; Mapear teste por Tabela de Decisão; BDD
+2. Atividades da Pessoa de QA; Manifesto de Teste Ágil; Modelo Cascata; Modelo Ágil
+3. Testes Funcionais e Testes Não Funcionais
+4. Teste de Caixa Branca; Teste de Caixa Preta; Evidência e Pirâmide de Teste
+5. Report e Classificação de Bugs
+6. Estratégia de Teste
+
 
 ## Javascript e HTML: desenvolva um jogo e pratique lógica de programação
 
