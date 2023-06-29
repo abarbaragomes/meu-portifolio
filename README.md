@@ -39,7 +39,7 @@ Este curso foi dividido em seis aulas nas quais pude aprender sobre os seguintes
 
 ## Javascript e HTML: desenvolva um jogo e pratique lógica de programação
 
-Os projetos desenvolvidos durante a realização deste curso estão *[neste](https://github.com/abarbaragomes/meu-portifolio/blob/main/Logica_de_Programacao.zip)* respositório.
+Os projetos desenvolvidos durante a realização deste curso estão *[neste](https://github.com/abarbaragomes/meu-portifolio/blob/main/Logica_de_Programacao.zip)* diretório.
 
 
 ## Git e GitHub: repositório, commit e versões
